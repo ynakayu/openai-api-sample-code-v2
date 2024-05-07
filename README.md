@@ -11,4 +11,4 @@ Udemy、Proglus（プログラス）にて公開中の「OpenAI API 完全マス
 - 06_whisper_v2.ipynb ・・・ Whisperで音声認識をしよう
 - 07_text_to_speech_v2.ipynb ・・・ Text to Speech APIで音声合成をしよう
 
-(c)2024 Yuta Nakamura, Proglus.
+(c)2024 Yuta Nakamura, Proglus Inc.
