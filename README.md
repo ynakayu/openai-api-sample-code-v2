@@ -10,5 +10,6 @@ Udemy、Proglus（プログラス）にて公開中の「OpenAI API 完全マス
 - 05_dalle_v2.ipynb ・・・ DALL·Eで画像を生成しよう
 - 06_whisper_v2.ipynb ・・・ Whisperで音声認識をしよう
 - 07_text_to_speech_v2.ipynb ・・・ Text to Speech APIで音声合成をしよう
+- 08_vision_v2.ipynb ・・・ 画像認識をしよう
 
 (c)2024 Yuta Nakamura, Proglus Inc.
